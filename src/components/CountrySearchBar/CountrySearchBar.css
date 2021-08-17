@@ -1,0 +1,6 @@
+.country-search-bar {
+    border: 1px solid #E7D38C;
+    width: calc(100% -12px);
+    padding: 10px 10px;
+    margin: 10px 6px;
+}
